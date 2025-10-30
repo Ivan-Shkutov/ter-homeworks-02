@@ -140,6 +140,6 @@ variable "common_metadata" {
             type = map(string)
          default = {
            serial-port-enable = "1"
-           ssh-keys           = ""ubuntu:${file("~/.ssh/id_eded25519.pub")}"
+           ssh-keys           = "ubuntu:${file("~/.ssh/id_eded25519.pub")}"
          }
 }
