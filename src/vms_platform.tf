@@ -9,7 +9,7 @@ variable "vm_db_zone" {
 variable "vm_db_name" {
   type        = string
   default     = "netology-develop-platform-db"
-  description = "Имя виртуальной машины"
+  description = "VM names"
 }
 */
 
@@ -23,19 +23,19 @@ variable "vm_db_platform_id" {
 variable "vm_db_hw_cores" {
   type = number
   default = 2
-  description = "Количество виртуальных ядер"
+  description = "Number of virtual cores"
 }
 
 variable "vm_db_hw_memory" {
   type = number
   default = 2
-  description = "Объем оперативной памяти"
+  description = "The amount of RAM"
 }
 
 variable "vm_db_core_frac" {
   type = number
   default = 20
-  description = "Ограничение пиковой производительности CPU"
+  description = "Limiting peak CPU performance"
 }
 
  */
