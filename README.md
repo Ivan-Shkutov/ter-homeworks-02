@@ -11,7 +11,9 @@
 
 ### Задание 1
 
-В качестве ответа всегда полностью прикладывайте ваш terraform-код в git. Убедитесь что ваша версия Terraform ~>1.12.0
+В качестве ответа всегда полностью прикладывайте ваш terraform-код в git. Убедитесь что ваша версия Terraform ~>1.8.0
+
+![9](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/9.png)
 
 Изучите проект. В файле variables.tf объявлены переменные для Yandex provider.
 
