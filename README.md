@@ -75,6 +75,12 @@
 
 ![10](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/10.png)
 
+variables.tf
+
+![14](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/14.png)
+
+main.tf
+
 
 
 ### Задание 3
