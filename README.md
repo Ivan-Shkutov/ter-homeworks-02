@@ -98,9 +98,7 @@ vms_platform.tf
 
 ![16](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/16.png)
 
-![12](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/12.png)
 
-![13](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/13.png)
 
 
 ### Задание 4
@@ -116,9 +114,7 @@ vms_platform.tf
 
 outputs.tf
 
-
-
-
+![17](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/17.png)
 
 
 ### Задание 5
@@ -129,10 +125,11 @@ outputs.tf
 
 Примените изменения.
 
-
-
-
 ### Решение:
+
+После новых изменений через локальные переменные terraform plan оставил текущую конфигурацию без изменений.
+
+![10](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/10.png)
 
 
 ### Задание 6
@@ -178,7 +175,9 @@ metadata = {
 Проверьте terraform plan. Изменений быть не должно.
 
 
-
-
 ### Решение:
+
+![12](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/12.png)
+
+![13](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/13.png)
 
