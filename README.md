@@ -87,7 +87,9 @@
 
 ### Решение:
 
+![12](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/12.png)
 
+![13](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/13.png)
 
 
 ### Задание 4
