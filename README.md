@@ -56,7 +56,7 @@
 
 5. выполнил подключение по ssh к ВМ и выполнил curl ifconfig.me
 
-![3](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/3.png)
+![11](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/11.png)
 
 ### Задание 2
 
