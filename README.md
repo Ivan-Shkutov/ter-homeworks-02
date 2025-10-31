@@ -81,6 +81,7 @@ variables.tf
 
 main.tf
 
+![15](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/15.png)
 
 
 ### Задание 3
