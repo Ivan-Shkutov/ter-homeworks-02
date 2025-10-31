@@ -94,6 +94,10 @@ main.tf
 
 ### Решение:
 
+vms_platform.tf
+
+![16](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/16.png)
+
 ![12](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/12.png)
 
 ![13](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/13.png)
@@ -108,9 +112,13 @@ main.tf
 В качестве решения приложите вывод значений ip-адресов команды terraform output.
 
 
-
-
 ### Решение:
+
+outputs.tf
+
+
+
+
 
 
 ### Задание 5
