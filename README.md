@@ -13,8 +13,6 @@
 
 В качестве ответа всегда полностью прикладывайте ваш terraform-код в git. Убедитесь что ваша версия Terraform ~>1.8.0
 
-![9](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/9.png)
-
 Изучите проект. В файле variables.tf объявлены переменные для Yandex provider.
 
 Создайте сервисный аккаунт и ключ. service_account_key_file.
@@ -34,6 +32,31 @@
 - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
 
 - ответы на вопросы.
+
+
+### Решение:
+
+![9](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/9.png)
+
+1. были добавлены идентификаторы облака и созданной директории
+
+2. создан сервисный аккаунт и ключи доступа
+
+3. сгенерировал ssh-ключи и добавил открытую часть в переменную var_ssh_root_key
+
+4. выполнил terraform init. После этого возникли ошибки, которые были обнаружены в файле main.tf
+
+- platform_id = "standart-v4" заменил на platform_id = "standard-v3"
+
+- cores = 1 заменил на cores = 2
+
+![01](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/01.png)
+
+![3](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/3.png)
+
+5. выполнил подключение по ssh к ВМ и выполнил curl ifconfig.me
+
+![3](https://github.com/Ivan-Shkutov/ter-homeworks-02/blob/main/3.png)
 
 ### Задание 2
 
